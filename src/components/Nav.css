@@ -1,46 +1,45 @@
-.navItems{
+.navItems {
   display: flex;
   justify-content: center;
-  border:  solid 1px #707070;
+  border: solid 1px #707070;
   height: 30px;
   margin-top: 20px;
   margin-left: 100px;
   margin-right: 100px;
 }
 
-.blockButton{
+.blockButton {
   width: 258px;
 }
 
-.Button{
+.Button {
   padding-left: 20px;
   padding-right: 20px;
   width: 258px;
 }
 
-.Button:hover{
+.Button:hover {
   background-color: #226462;
-  color: #ffffff;
+  color: #fff;
 }
 
-.subMenuList{
-  padding-left: 0px;
-  margin-top: 0px;
+.subMenuList {
+  padding-left: 0%;
+  margin-top: 0%;
 }
 
-.subMenuItem{
+.subMenuItem {
   padding-top: 8px;
   padding-bottom: 8px;
   border-left: solid 1px #707070;
   border-right: solid 1px #707070;
   border-bottom: solid 1px #707070;
-  color : #707070;
+  color: #707070;
   padding-left: 8px;
   width: 250px;
 }
-.subMenuItem:hover{
+
+.subMenuItem:hover {
   background-color: #707070;
-  color: #ffffff;
+  color: #fff;
 }
-
-
