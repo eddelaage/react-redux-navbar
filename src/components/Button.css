@@ -1,0 +1,20 @@
+.Button{
+  /* background-color: #226462; */
+  color : #707070;
+  padding: .30rem .3rem;
+  font-size: 1rem;
+  height: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  outline:none;
+  /* margin: auto; */
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  cursor: pointer;
+  list-style: none;
+}
